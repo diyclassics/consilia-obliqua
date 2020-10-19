@@ -1,0 +1,14 @@
+# Site settings
+title: Consilia Obliqua
+tagline: "Latin Translation of Eno & Schmidt's Oblique Strategies"
+baseurl: "/consilia-obliqua"
+
+# Social
+twitter: diyclassics
+github: diyclassics
+
+# Use this for production
+#sass:
+#    style: :compressed
+
+exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
