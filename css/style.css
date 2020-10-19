@@ -69,12 +69,21 @@ body {
   font-weight: 400;
 }
 
-#text-box {
+#text-box, #card-list {
   margin: 0px auto;
   text-align: center;
   padding: 75px 15px;
   background-color: #FFF;
   border-radius: 5px;
+}
+
+#card-list {
+  text-align: left;
+  padding: 100px;
+}
+
+#card-list ul li {
+ padding: 2px;
 }
 
 #text-content {
